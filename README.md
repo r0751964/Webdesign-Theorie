@@ -7,6 +7,7 @@ Inhoudstabel
 - [Les 5, Update mediaqueries](#les-5-update-mediaqueries)
 - [Les 6, Responsieve afbeeldingen](#les-6-responsieve-afbeeldingen)
 - [Les 7, Frameworks](#les-7-frameworks)
+- [Les 8, Formulieren en formulierafhandeling](#les-8-formulieren-en-formulierafhandeling)
 
 
 ___
@@ -83,3 +84,19 @@ ___
 - Schrijf zo weinig mogelijk CSS (gebruik klassenamen van framework waar mogelijk)
 - Wijzijg NOOIT iets in het CSS bestand vd framework (bij updates gaat dan alles verloren)
 - Bij Googlen voor hulp met Framework, kijk versie na
+
+___
+
+## Les 8, Formulieren en formulierafhandeling
+
+- Maken website interactiever
+- Inhoud formulier: HTML5  
+  Opmaak formulier: CSS3
+- Formulieren = schakel tussen browser bezoeker & databank website
+- Databankacties kunnen gemaakt worden in Java, PHP...
+- Methods:
+  - get --> gegevens toegevoegd aan URL (niet zo handig voor wachtwoorden)
+  - post --> gegevens niet toegevoegd aan URL
+- Id moet uniek zijn, begin naam met letter, alleen kleine letters, geen blanco's!
+
+

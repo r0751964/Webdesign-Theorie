@@ -12,6 +12,8 @@ Inhoudstabel
 - [Les 10, Bootstrap 4 voor beginners](#les-10-bootstrap-4-voor-beginners)
 - [Les 11, Huisstijl en logo](#les-11-huisstijl-en-logo)
 - [Les 12, Sass](#les-12-sass)
+- [Les 13, CSS3](#les-13-css3)
+
 
 
 
@@ -152,3 +154,18 @@ ___
   - Partials (\_variables.scss)
   - Mixins
 - Je schrijft sass, sass compiled deze code naar css
+
+___
+
+## Les 13, CSS3
+
+- Prefixes, fabrikanten geven voor sommige experimentele eigenschappen een prefix
+  Alleen prefixen indien nodig! (Na te kijken op https://caniuse.com)
+  Wordt soms ook afgehandeld door gulp-autoprefixer
+  - WebKit (Chrome, Safari, recente Opera versies) -webkit-
+  - Mozilla Firefox -moz-
+  - Opera (oudere versies) -o-
+  - Internet Explorer, Edge -ms-
+- Media query voor pixel density (@media (min-resolution: 2dppx){})
+- 
+  

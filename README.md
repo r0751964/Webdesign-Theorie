@@ -10,6 +10,8 @@ Inhoudstabel
 - [Les 8, Formulieren en formulierafhandeling](#les-8-formulieren-en-formulierafhandeling)
 - [Les 9, Samenwerken via Github](#les-9-samenwerken-via-github)
 - [Les 10, Bootstrap 4 voor beginners](#les-10-bootstrap-4-voor-beginners)
+- [Les 11, Huisstijl en logo](#les-11-huisstijl-en-logo)
+
 
 
 ___
@@ -122,4 +124,18 @@ ___
     - Ingebouwde flexbox via klassenamen
   3. Predefiend CSS/classes/components
     - Enkel klassenamen moeten gebruiken voor alerts, buttons, cards, forms, navbars... te lay-outen
+
+## Les 11, Huisstijl en logo
+
+Merken: (foto uit cursus H11, slide 7)
+![Voorbeelden merken: Woordmerk logo Coca-Cola, beeldmerk logo McDonalds, vormmerk Toblerone chocolade en Legoblok, kleurmerk onderkant schoenen louboutin](img/11.png)
+
+Een goed logo is:
+- Eenvoudig
+- Herkenbaar
+- Tijdloos
+- Veelzijdig
+- Geschikt voor doelpubliek
+- Perfect te printen in grijswaarden
+- Vectorieel ontworpen
 

@@ -5,6 +5,7 @@ Inhoudstabel
 - [Les 3, Fonts](#les-3-fonts)
 - [Les 4, .htaccess](#les-4-htaccess)
 - [Les 5, Update mediaqueries](#les-5-update-mediaqueries)
+- [Les 6, Responsieve afbeeldingen](#les-6-responsieve-afbeeldingen)
 
 
 ___
@@ -52,4 +53,21 @@ Tip: werk van klein naar groot (no media query, (min-width:500px), (min-width:70
   - Media queries in CSS: maar één request, maar wel een heel grote (meestal gebruikt in voorbeelden vd cursus)
 - Screen query dient ervoor dat de css niet toepast bij bv printen
   
+___
 
+# Les 6, Responsieve afbeeldingen
+
+- Welk bestandsformaat?
+  - SVG: afbeelding is in paden op te bouwen
+    - Is weinig kB (hogere ranking in Google)
+    - Geen kwaliteitsverlies in vergoten (handig in responsieve sites)
+  - JPG: fotorealistisch materiaal zonder transparantie
+  - PNG: foto met transparantie
+  GIF: afbeeldingen met weinig kleuren die niet vectorieel te beschrijven zijn (geen svg kunnen zijn)
+- Zorg ervoor dat je de afbeelding mag hergebruiken (pexels.com) of (indien jouw eigen foto) dat enige herkenbare mensen erop toestemming geven)
+- Hotlink niet (tenzij website het wilt)
+- Gewone afbeeldingen: altijd kleiner dan 100kB  
+Achtergrondafbeeldingen (schermvullend gebruikt): kleiner dan 200kB  
+http://www.picresize.com
+- Gebruik height/width niet voor te grote fotos kleiner te weergeven
+- Zo weinig mogelijk photoshop, zoveel mogelijk css (bv foto cirkelvormig weergeven)

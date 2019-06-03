@@ -6,6 +6,7 @@ Inhoudstabel
 - [Les 4, .htaccess](#les-4-htaccess)
 - [Les 5, Update mediaqueries](#les-5-update-mediaqueries)
 - [Les 6, Responsieve afbeeldingen](#les-6-responsieve-afbeeldingen)
+- [Les 7, Frameworks](#les-7-frameworks)
 
 
 ___
@@ -71,3 +72,14 @@ Achtergrondafbeeldingen (schermvullend gebruikt): kleiner dan 200kB
 http://www.picresize.com
 - Gebruik height/width niet voor te grote fotos kleiner te weergeven
 - Zo weinig mogelijk photoshop, zoveel mogelijk css (bv foto cirkelvormig weergeven)
+
+___
+
+## Les 7, Frameworks
+
+- Voorbeelden
+  - Tent.CSS
+  - Bootstrap
+- Schrijf zo weinig mogelijk CSS (gebruik klassenamen van framework waar mogelijk)
+- Wijzijg NOOIT iets in het CSS bestand vd framework (bij updates gaat dan alles verloren)
+- Bij Googlen voor hulp met Framework, kijk versie na

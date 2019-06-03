@@ -4,6 +4,7 @@ Theorie die in de cursus staat
 Inhoudstabel  
 - [Les 3, Fonts](#les-3-fonts)
 - [Les 4, .htaccess](#les-4-htaccess)
+- [Les 5, Update mediaqueries](#les-5-update-mediaqueries)
 
 
 ___
@@ -30,3 +31,25 @@ ___
 - Definieert wat er moet gebeuren bij errors (zoals 404 not found, of 403 forbidden)
 - 403, 404 etc. zijn bekend als HTTP statuscodes
 - Alhoewel meeste er chill mee zijn, blijkbaar laten sommige hostingproviders .htaccess maar in beperkte mate/helemaal niet toe
+
+___
+
+## Les 5, Update mediaqueries
+
+- Evolutie:
+  - Voor 2010: mobiele site = uitgeklede versie van gewone site, 2 versies moesten onderhouden worden
+  - 2010 en na: Ethan Marcotte bedacht Responsive Webdesign
+    1. Flexibele, op grid (raster) gebaseerde lay-out
+    2. Flexibele afbeeldingen/andere media die meeschalen met breder/smaller worden van lay-out
+    3. CSS3 media queries om te detecteren op welke breedte de site bekeken wordt (en vervolgens optimaal op te reageren)
+- Content first: "alle inhoud moet correct getoond worden op alle apparaten!"
+- Mobile first: vertrekken vanaf ontwerp voor een smal scherm (gsm), daarna breder (tablet), daarna breedst (computer)
+- Breakpoints: de punten/breedtes wanneer de lay-out zich aanpast (baseer op inhoud, niet op schermgroottes)  
+2 breekpunten = 3 lay-outs
+- Media query = media attribuut in link tag in head van HTML, dat test op type scherm en (andere kenmerken/features)  
+Tip: werk van klein naar groot (no media query, (min-width:500px), (min-width:700px) etc.)
+  - Media queries met meerdere CSS bestanden: vele requests bij grote schermen
+  - Media queries in CSS: maar één request, maar wel een heel grote (meestal gebruikt in voorbeelden vd cursus)
+- Screen query dient ervoor dat de css niet toepast bij bv printen
+  
+

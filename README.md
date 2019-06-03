@@ -8,6 +8,7 @@ Inhoudstabel
 - [Les 6, Responsieve afbeeldingen](#les-6-responsieve-afbeeldingen)
 - [Les 7, Frameworks](#les-7-frameworks)
 - [Les 8, Formulieren en formulierafhandeling](#les-8-formulieren-en-formulierafhandeling)
+- [Les 9, Samenwerken via Github](#les-9-samenwerken-via-github)
 
 
 ___
@@ -100,4 +101,9 @@ ___
 - Id moet uniek zijn, begin naam met letter, alleen kleine letters, geen blanco's!
 - rgba = rood groen blauw alfawaarde (alfawaarde = transparantie) --> rgba(255, 0, 0, 0.4) in CSS
 
+___
 
+## Les 9, Samenwerken via GitHub
+
+- Git is een versiebeheersysteem waardoor developers tegelijk aanpassingen kunnen maken
+- GitHub is een website/hosting service voor software, gebouwd rond Git (alternatieven zijn BitBucket, GitLab, Codebase, Assembla...)

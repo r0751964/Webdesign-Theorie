@@ -3,6 +3,7 @@ Theorie die in de cursus staat
 
 Inhoudstabel  
 - [Les 3, Fonts](#les-3-fonts)
+- [Les 4, .htaccess](#les-4-htaccess)
 
 
 ___
@@ -20,3 +21,12 @@ Voorbeelden:
   - Fontawesome (gebruikt \<i class=""\> element voor icons te laden)
   - Google Fonts (gebruikt \<link\> element voor css te laden)
   - Material.io (gebruikt een Google Fonts link voor icons te laden)
+
+___
+
+## Les 4, htaccess
+- .htaccess = HyperText Access
+- Ondersteund door aantal webservers
+- Definieert wat er moet gebeuren bij errors (zoals 404 not found, of 403 forbidden)
+- 403, 404 etc. zijn bekend als HTTP statuscodes
+- Alhoewel meeste er chill mee zijn, blijkbaar laten sommige hostingproviders .htaccess maar in beperkte mate/helemaal niet toe

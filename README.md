@@ -11,6 +11,7 @@ Inhoudstabel
 - [Les 9, Samenwerken via Github](#les-9-samenwerken-via-github)
 - [Les 10, Bootstrap 4 voor beginners](#les-10-bootstrap-4-voor-beginners)
 - [Les 11, Huisstijl en logo](#les-11-huisstijl-en-logo)
+- [Les 12, Sass](#les-12-sass)
 
 
 
@@ -139,3 +140,15 @@ Een goed logo is:
 - Perfect te printen in grijswaarden
 - Vectorieel ontworpen
 
+___
+
+## Les 12, Sass
+
+- Sass = Syntactically Awesome StyleSheets
+- Scripttaal, breidt CSS uit
+  - Variabelen ($var = "waarde")
+  - Functies (lighten())
+  - Nesting (div{a{}})
+  - Partials (\_variables.scss)
+  - Mixins
+- Je schrijft sass, sass compiled deze code naar css

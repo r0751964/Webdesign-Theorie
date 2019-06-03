@@ -3,7 +3,7 @@ Theorie die in de cursus staat
 
 Inhoudstabel  
 - [Les 3, Fonts](#les-3-fonts)
-- [Les 4, .htaccess](#les-4-htaccess)
+- [Les 4, .htaccess en errorpages](#les-4-htaccess-en-errorpages)
 - [Les 5, Update mediaqueries](#les-5-update-mediaqueries)
 - [Les 6, Responsieve afbeeldingen](#les-6-responsieve-afbeeldingen)
 - [Les 7, Frameworks](#les-7-frameworks)
@@ -27,7 +27,7 @@ Voorbeelden:
 
 ___
 
-## Les 4, htaccess
+## Les 4, .htaccess en errorpages
 - .htaccess = HyperText Access
 - Ondersteund door aantal webservers
 - Definieert wat er moet gebeuren bij errors (zoals 404 not found, of 403 forbidden)

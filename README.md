@@ -9,6 +9,7 @@ Inhoudstabel
 - [Les 7, Frameworks](#les-7-frameworks)
 - [Les 8, Formulieren en formulierafhandeling](#les-8-formulieren-en-formulierafhandeling)
 - [Les 9, Samenwerken via Github](#les-9-samenwerken-via-github)
+- [Les 10, Bootstrap 4 voor beginners](#les-10-bootstrap-4-voor-beginners)
 
 
 ___
@@ -107,3 +108,18 @@ ___
 
 - Git is een versiebeheersysteem waardoor developers tegelijk aanpassingen kunnen maken
 - GitHub is een website/hosting service voor software, gebouwd rond Git (alternatieven zijn BitBucket, GitLab, Codebase, Assembla...)
+
+___
+
+## Les 10, Bootstrap 4 voor beginners
+
+- Bootstrap bestaat uit:
+  1. General default styles
+    - De basispagina ziet er hetzelfde uit in elke browser
+    - Er zijn standaard lettertypes en lettergroottes aanwezig
+    - Rables, images en figures zijn standaard responsief
+  2. Grid layout
+    - Ingebouwde flexbox via klassenamen
+  3. Predefiend CSS/classes/components
+    - Enkel klassenamen moeten gebruiken voor alerts, buttons, cards, forms, navbars... te lay-outen
+

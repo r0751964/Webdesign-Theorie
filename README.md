@@ -98,5 +98,6 @@ ___
   - get --> gegevens toegevoegd aan URL (niet zo handig voor wachtwoorden)
   - post --> gegevens niet toegevoegd aan URL
 - Id moet uniek zijn, begin naam met letter, alleen kleine letters, geen blanco's!
+- rgba = rood groen blauw alfawaarde (alfawaarde = transparantie) --> rgba(255, 0, 0, 0.4) in CSS
 
 
